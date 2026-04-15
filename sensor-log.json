@@ -1,0 +1,1802 @@
+[
+  {
+    "time": "3:09:26 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:28 PM",
+    "distance": 256.1,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:30 PM",
+    "distance": 256.6,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:32 PM",
+    "distance": 256.2,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:34 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:36 PM",
+    "distance": 256.2,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:38 PM",
+    "distance": 256.6,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:40 PM",
+    "distance": 256.2,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:42 PM",
+    "distance": 256.6,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:44 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:46 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:48 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:50 PM",
+    "distance": 249.7,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:52 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:54 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:56 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:09:58 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:00 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:02 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:04 PM",
+    "distance": 256.1,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:06 PM",
+    "distance": 256.6,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:08 PM",
+    "distance": 256,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:10 PM",
+    "distance": 256.4,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:12 PM",
+    "distance": 256.4,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:14 PM",
+    "distance": 256,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:16 PM",
+    "distance": 256,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:18 PM",
+    "distance": 256.4,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:20 PM",
+    "distance": 256.3,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:23 PM",
+    "distance": 256,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:24 PM",
+    "distance": 256.4,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:27 PM",
+    "distance": 256.4,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:28 PM",
+    "distance": 63,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:30 PM",
+    "distance": 65.7,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:32 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:34 PM",
+    "distance": 256.1,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:36 PM",
+    "distance": 58.9,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:39 PM",
+    "distance": 58.3,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:40 PM",
+    "distance": 56.9,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:42 PM",
+    "distance": 249.8,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:44 PM",
+    "distance": 250,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:46 PM",
+    "distance": 256,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:48 PM",
+    "distance": 256.4,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:50 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:52 PM",
+    "distance": 256.6,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:54 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:56 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:10:58 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:00 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:02 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:04 PM",
+    "distance": 256.1,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:06 PM",
+    "distance": 184.4,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:08 PM",
+    "distance": 256.1,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:10 PM",
+    "distance": 256.5,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:12 PM",
+    "distance": 59.3,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:14 PM",
+    "distance": 256.1,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:16 PM",
+    "distance": 256.2,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:18 PM",
+    "distance": 256.2,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:20 PM",
+    "distance": 256.6,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:22 PM",
+    "distance": 256.6,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:24 PM",
+    "distance": 256.1,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:26 PM",
+    "distance": 256.6,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:28 PM",
+    "distance": 67,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:30 PM",
+    "distance": 256.5,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:32 PM",
+    "distance": 63.6,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:34 PM",
+    "distance": 256.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:36 PM",
+    "distance": 56.4,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:38 PM",
+    "distance": 52.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:40 PM",
+    "distance": 54.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:43 PM",
+    "distance": 256.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:45 PM",
+    "distance": 256.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:46 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:48 PM",
+    "distance": 256.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:51 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:53 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:55 PM",
+    "distance": 257.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:57 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:11:58 PM",
+    "distance": 256.7,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:00 PM",
+    "distance": 248.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:03 PM",
+    "distance": 179.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:05 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:06 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:09 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:11 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:13 PM",
+    "distance": 180.5,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:14 PM",
+    "distance": 180.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:17 PM",
+    "distance": 257.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:18 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:21 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:23 PM",
+    "distance": 256.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:25 PM",
+    "distance": 248,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:26 PM",
+    "distance": 183.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:28 PM",
+    "distance": 178.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:30 PM",
+    "distance": 247.4,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:32 PM",
+    "distance": 257.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:35 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:36 PM",
+    "distance": 257.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:39 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:40 PM",
+    "distance": 257.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:42 PM",
+    "distance": 257.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:45 PM",
+    "distance": 247.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:47 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:49 PM",
+    "distance": 256.4,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:50 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:52 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:55 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:56 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:12:59 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:01 PM",
+    "distance": 257.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:02 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:04 PM",
+    "distance": 257.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:07 PM",
+    "distance": 256.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:08 PM",
+    "distance": 257.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:11 PM",
+    "distance": 256.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:13 PM",
+    "distance": 256.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:14 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:17 PM",
+    "distance": 257.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:19 PM",
+    "distance": 256.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:21 PM",
+    "distance": 257.1,
+    "water": 1,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:23 PM",
+    "distance": 257.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:25 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:28 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:30 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:31 PM",
+    "distance": 182.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:33 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:35 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:38 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:39 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:41 PM",
+    "distance": 257.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:43 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:45 PM",
+    "distance": 257.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:47 PM",
+    "distance": 257.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:49 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:50 PM",
+    "distance": 257.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:53 PM",
+    "distance": 256.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:55 PM",
+    "distance": 93.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:57 PM",
+    "distance": 257.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "3:13:59 PM",
+    "distance": 257.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:36 PM",
+    "distance": 260.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:38 PM",
+    "distance": 260.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:40 PM",
+    "distance": 261.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:42 PM",
+    "distance": 15.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:44 PM",
+    "distance": 261.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:46 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:48 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:50 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:52 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:55 PM",
+    "distance": 260.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:56 PM",
+    "distance": 260.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:47:58 PM",
+    "distance": 4.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:00 PM",
+    "distance": 261.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:02 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:04 PM",
+    "distance": 261,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:06 PM",
+    "distance": 261,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:08 PM",
+    "distance": 261,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:10 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:12 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:14 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:16 PM",
+    "distance": 261.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:18 PM",
+    "distance": 29.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:20 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:22 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:48:24 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:20 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:22 PM",
+    "distance": 260.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:24 PM",
+    "distance": 261.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:26 PM",
+    "distance": 36.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:28 PM",
+    "distance": 261.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:30 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:32 PM",
+    "distance": 260.7,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:34 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:36 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:38 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:40 PM",
+    "distance": 10.4,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:42 PM",
+    "distance": 261,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:44 PM",
+    "distance": 261.1,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:46 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:48 PM",
+    "distance": 59.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:50 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:52 PM",
+    "distance": 260.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:55 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:56 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:49:58 PM",
+    "distance": 259.8,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:00 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:02 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:04 PM",
+    "distance": 260.6,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:06 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:08 PM",
+    "distance": 260.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:10 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:13 PM",
+    "distance": 260.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:14 PM",
+    "distance": 251,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:16 PM",
+    "distance": 260.3,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:18 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:20 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:22 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:24 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:26 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:28 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:30 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:32 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  },
+  {
+    "time": "12:50:35 PM",
+    "distance": 260.2,
+    "water": 0,
+    "lat": 18.520399,
+    "lng": 73.856697,
+    "route": 0,
+    "waypoint": 0
+  }
+]
